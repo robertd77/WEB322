@@ -1,0 +1,33 @@
+
+.style1{
+    color:#384760;
+    font-family: "Impact";
+}
+
+#banner{
+    color:#384760;
+    font-family: "Impact";
+}
+#banner:hover {
+    color: #c69f11;
+}
+
+
+#main{
+    background-color: #ced5e0;
+}
+
+p{
+    color:#c69f11;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+a{
+    color:#c69f11;
+    font-weight: bold;
+}
+
+#righty > li > a:hover{
+    color: #c69f11;
+}
